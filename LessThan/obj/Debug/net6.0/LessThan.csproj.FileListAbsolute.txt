@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\LessThan\LessThan\bin\Debug\net6.0\LessThan.exe
+C:\Users\chris\source\repos\LessThan\LessThan\bin\Debug\net6.0\LessThan.deps.json
+C:\Users\chris\source\repos\LessThan\LessThan\bin\Debug\net6.0\LessThan.runtimeconfig.json
+C:\Users\chris\source\repos\LessThan\LessThan\bin\Debug\net6.0\LessThan.dll
+C:\Users\chris\source\repos\LessThan\LessThan\bin\Debug\net6.0\LessThan.pdb
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\LessThan.csproj.AssemblyReference.cache
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\LessThan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\LessThan.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\LessThan.AssemblyInfo.cs
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\LessThan.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\LessThan.dll
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\refint\LessThan.dll
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\LessThan.pdb
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\LessThan.genruntimeconfig.cache
+C:\Users\chris\source\repos\LessThan\LessThan\obj\Debug\net6.0\ref\LessThan.dll
